@@ -11,6 +11,8 @@ The course will act as a refresher before I start development on my final year p
 
 ##Deployment
 
-No deployment is required for this repo. 
+No deployment is required for this repo.
 
 ##How To Contribute
+
+Any and all tips are greatly appreciated. 
