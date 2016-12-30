@@ -2,4 +2,10 @@
 
 A repository used to get to grips with git.
 
-##Introduction 
+##Introduction
+
+##Purpose
+
+##Deployment
+
+##How To Contribute 
